@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.bg {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+  font-size: 30px;
+}
+.card {
+  width: 75%;
+  background-color: white;
+  padding: 30px;
+}
+.select-con {
+  height: 50px;
+  width: 40%;
+  margin-right: 10px;
+  border: 1px solid black;
+  font-size: 25px;
+}
